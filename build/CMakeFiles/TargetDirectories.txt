@@ -1,0 +1,3 @@
+D:/projects/money-calculator/build/CMakeFiles/money-calculator.dir
+D:/projects/money-calculator/build/CMakeFiles/edit_cache.dir
+D:/projects/money-calculator/build/CMakeFiles/rebuild_cache.dir
